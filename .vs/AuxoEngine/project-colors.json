@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "847bbc32-fd3f-49a9-93bc-4b588a30dce8": {
+      "ProjectGuid": "847bbc32-fd3f-49a9-93bc-4b588a30dce8",
+      "DisplayName": "SandBox",
+      "ColorIndex": 0
+    },
+    "834fc63b-7677-49e8-ab0f-7d00240115dc": {
+      "ProjectGuid": "834fc63b-7677-49e8-ab0f-7d00240115dc",
+      "DisplayName": "Auxo",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "c2b5827c-aeec-830d-57d9-691043efff0e": {
+      "ProjectGuid": "c2b5827c-aeec-830d-57d9-691043efff0e",
+      "DisplayName": "Auxo",
+      "ColorIndex": 2
+    },
+    "d43924e3-4019-a37e-4931-2e55b58f09e0": {
+      "ProjectGuid": "d43924e3-4019-a37e-4931-2e55b58f09e0",
+      "DisplayName": "SandBox",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
