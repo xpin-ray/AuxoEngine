@@ -5,5 +5,5 @@
 *********************************************************/
 #pragma once
 
-#include "GenericPlatform/PlatformMemory.h"
+#include "HAL/PlatformMemory.h"
 #include "Application/Application.h"

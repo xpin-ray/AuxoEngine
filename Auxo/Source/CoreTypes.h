@@ -5,4 +5,4 @@
 *********************************************************/
 #pragma once
 
-#include "GenericPlatform/PlatformTypes.h"
+#include "HAL/PlatformTypes.h"
